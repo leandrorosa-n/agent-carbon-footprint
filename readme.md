@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>Agente de Tarefas de TAX</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -23,19 +23,19 @@
   <tr>
     <td>
         <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
+        <a href="https://github.com/leandrorosa-n">
         <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
+    <p>🎉 Experiênca com criação de agentes e programação em Python.
       <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
+     🌟 Programador em Python, analista de dados e especialista em TAX
       <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
+    👨‍💻 Foco em Data Engineer, Data Science e Agents
     </p>
       <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
+      href="[https://www.linkedin.com/in/felipe-me/](https://www.linkedin.com/in/leandronogueirarosa/)" 
       align="center">
            <img 
             align="center" 
