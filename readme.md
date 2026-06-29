@@ -3,7 +3,7 @@
   <p align="center">
     <img 
       alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
+      src="https://www.flaticon.com/br/icone-gratis/homem_4951028" 
       width="100px" 
     />
     <h1>Agente de Tarefas de TAX</h1>
@@ -35,7 +35,7 @@
     👨‍💻 Foco em Data Engineer, Data Science e Agents
     </p>
       <a 
-      href="[https://www.linkedin.com/in/felipe-me/](https://www.linkedin.com/in/leandronogueirarosa/)" 
+      href="https://www.linkedin.com/in/leandronogueirarosa" 
       align="center">
            <img 
             align="center" 
