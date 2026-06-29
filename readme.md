@@ -24,9 +24,9 @@
     </td>
     <td colspan="3">
       <p>
-        🎉 Experiência com criação de agentes e programação em Python.<br/>
-        🌟 Programador em Python, analista de dados e especialista em TAX<br/>
-        👨‍💻 Foco em Data Engineer, Data Science e Agents
+        🎉 Experiência com criação de Agentes.<br/>
+        🌟 Programador em Python, Analista de Dados, SQL, Power BI e Especialista em TAX.<br/>
+        👨‍💻 Foco em Data Engineer, Data Science e Agents.
       </p>
       <a href="https://www.linkedin.com/in/leandronogueirarosa/" target="_blank">
         <img 
