@@ -1,14 +1,8 @@
 <!--START_SECTION:header-->
 <div align="center">
-  <p align="center">
-    <img 
-      alt="Avatar" 
-      src="https://avatars.githubusercontent.com/u/266574120?v=4" 
-      width="80px" 
-      style="border-radius:50%;" 
-    />
-    <h1>Agente de Tarefas de TAX</h1>
-  </p>
+  
+# Agente de Tarefas de TAX
+  
 </div>
 <!--END_SECTION:header-->
 
@@ -25,7 +19,7 @@
     <td>
       <p align="center">Expert</p>
       <a href="https://github.com/leandrorosa-n">
-        <img src="https://avatars.githubusercontent.com/u/266574120?v=4" width="80px" style="border-radius:50%;"><br>
+        <img src="https://avatars.githubusercontent.com/u/266574120?v=4" width="140px" style="border-radius:80%;"><br>
       </a>
     </td>
     <td colspan="3">
@@ -60,50 +54,51 @@
 
 ## 💻 Sobre o Projeto
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Este projeto consiste na **construção de um agente integrado ao Trello via API**, capaz de **incluir e acompanhar tarefas** relacionadas a pesquisas fiscais (TAX) envolvendo impostos federais.  
+O agente permite monitorar o ciclo completo das atividades: **iniciadas, em execução e concluídas**, garantindo maior organização e rastreabilidade.
+
+---
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+Antes de iniciar, é importante possuir conhecimento prévio nas seguintes áreas:
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+- **Conceitos Fiscais** | Intermediário  
+- **Leis federais de créditos e débitos** | Avançado  
+- **Hierarquia de Leis** | Intermediário  
+- **Limitações tributárias na CF** | Avançado  
 
-- _Exemplo_:
+Outros pré-requisitos técnicos incluem:
+- **Lógica de programação**
+- **PowerShell**
+- **Markdown**
+- **IDE**
+- **Construção de agentes com API**
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+---
 
-- [Outros pré-requisitos, se aplicável]
+## 🛠️ Habilidades e Sub-habilidades Desenvolvidas
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+Durante o projeto, você aprenderá a:
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+- **Desenvolver agentes locais** para integração com Trello  
+- **Organizar pastas e estrutura de projeto**  
+- Criar **prompts para IA**  
+- Definir **estrutura de arquivos**  
+- Realizar **instalação e gerenciamento de pacotes**
 
-- [Lista das habilidades principais a serem desenvolvidas]
-
-  - [Subhabilidades relacionadas, se aplicável]
-
-- _Exemplo_:
-  - Java
-    - Api Rest
+---
 
 ## 🎯 Objetivos e Resultados Esperados
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+Ao concluir este projeto, você estará apto a:
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+- Construir **agentes de IA automatizados** para gestão de tarefas fiscais  
+- Definir **padrões de resposta** alinhados aos objetivos das atividades  
+- Integrar fluxos de trabalho fiscais com **monitoramento em tempo real** via Trello API
 
 <!--START_SECTION:footer-->
 
 <br />
 <br />
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
