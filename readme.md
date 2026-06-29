@@ -2,9 +2,10 @@
 <div align="center">
   <p align="center">
     <img 
-      alt="DIO Education" 
-      src="https://www.flaticon.com/br/icone-gratis/homem_4951028" 
-      width="100px" 
+      alt="Avatar" 
+      src="https://avatars.githubusercontent.com/u/266574120?v=4" 
+      width="80px" 
+      style="border-radius:50%;" 
     />
     <h1>Agente de Tarefas de TAX</h1>
   </p>
@@ -13,47 +14,45 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
-
+  <a href="NIVEL">
+    <img src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel">
+  </a>
 </p>
 
-<!--  -->
 <table align="center">
 <thead>
   <tr>
     <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/leandrorosa-n">
-        <img src="https://avatars.githubusercontent.com/u/266574120?v=4"><br>
+      <p align="center">Expert</p>
+      <a href="https://github.com/leandrorosa-n">
+        <img src="https://avatars.githubusercontent.com/u/266574120?v=4" width="80px" style="border-radius:50%;"><br>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 Experiênca com criação de agentes e programação em Python.
-      <br/>
-     🌟 Programador em Python, analista de dados e especialista em TAX
-      <br/>
-    👨‍💻 Foco em Data Engineer, Data Science e Agents
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/leandronogueirarosa" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
+      <p>
+        🎉 Experiência com criação de agentes e programação em Python.<br/>
+        🌟 Programador em Python, analista de dados e especialista em TAX<br/>
+        👨‍💻 Foco em Data Engineer, Data Science e Agents
+      </p>
+      <a href="https://www.linkedin.com/in/leandronogueirarosa/" target="_blank">
+        <img 
+          align="center" 
+          alt="LinkedIn" 
+          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        >
+      </a>
+      <a href="https://www.instagram.com/leandrorosa.n/" target="_blank">
+        <img 
+          align="center" 
+          alt="Instagram" 
+          src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        >
+      </a>
     </td>
   </tr>
 </thead>
 </table>
+
 <!--  -->
 
 <br/>
