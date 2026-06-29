@@ -6,9 +6,9 @@ from google.adk.code_executors import BuiltInCodeExecutor
 search_agent = Agent(
     model='gemini-2.5-flash',
     name='search_agent',
-    description='Você é um agente especilizado em busca na web via Google Search.',
+    description='Você é um agente especilizado em busca na web via Google Search para assuntos fiscais.',
     instruction="""
-        Você é um agente especilizado em busca na web via Google Search
+        Você é um agente especilizado em busca na web via Google Search para assuntos fiscais.
         Use a ferramenta de busca para responder perguntas do usuário.
         """,
     tools=[google_search],
@@ -19,7 +19,7 @@ coding_agent = Agent(
     name='coding_agent',
     description='Você é um agente especilizado em escrever código e executar codigo.',
     instruction="""
-        Você é um agente especilizado em escrever código e executar codigo.
+        Você é um agente especilizado em escrever código e executar codigo para otimizar tarefas.
         Use a ferramenta de execução de código para executar o código que você escreveu.
         """,
     code_executor=BuiltInCodeExecutor(),
